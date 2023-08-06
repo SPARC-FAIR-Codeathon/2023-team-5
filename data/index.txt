@@ -1,0 +1,130 @@
+Title: Histology of pig cervical vagus nerve
+Contributors:  Megan Settell, Kip Ludwig, Bruce Knudsen,
+Nicole Pelot, Evan Nicolai
+Description: Trichrome stained histology of the pig cervical vagus nerve at the region of vagus nerve stimulation (VNS).
+Viewing version: 1.1
+DOI: 10.26275/f5se-ynpk
+
+Primary Publication(s):
+Musselman, E., Pelot, N., and Grill, W. (2023) Validated computational models predict vagus nerve stimulation thresholds in preclinical animals and humans. Journal of Neural Engineering. http://dx.doi.org/10.1088/1741-2552/acda64
+
+Abstract:
+
+Study Purpose: This study was conducted to determine the morphology of the pig cervical vagus nerve under the stimulating cuff to determine afferent and efferent groupings.
+
+Data Collection: This data includes the histology from the approximate center of the vagus nerve stimulating cuff
+
+Primary Conclusion: None stated
+
+Curator's Notes
+
+Experimental Design: All subjects underwent cervical vagus nerve stimulation. See Nicolai et al. 2020 and the associated dataset for details on the stimulation protocol. Following experimental stimulation, the pigs were euthanized and incised to expose either the right or left side vagus nerve. Sections were then embedded in paraffin wax and allowed to set. Each block was placed in an ice-water bath for approximately one hour to rehydrate the tissue and allow 5 µm sections to be cut using a Leica Biosystems Rotary Microtome and stained using Gomori's trichrome. Slides were imaged using a Motic Slide Scanner at 20×. Region under the cuff was analyzed using Gomori's Trichrome. Slices in this dataset are at the approximate center of the cuff.
+
+Completeness: This dataset is complete.
+
+Subjects & Samples: Male (n=4) and female (n=4) juvenile Landrace/Yorkshire pigs were used in this study.
+
+Primary vs derivative data: Data in the primary folder are organized by subject ID, then by sample ID. The primary folder contains images in a .tif format. The primary images were converted with 20:1 compression to JPEG2000 (.jp2) by MBF Bioscience for web streaming and visualization on the SPARC Data Portal. The primary images were also converted with lossless compression to OME-TIFF (.tif) by MBF Bioscience. Microscopy image metadata is included in the file header of all .jp2 and .tif in the derivative folder.
+
+Metadata
+Experimental Design:
+
+Protocol Links:
+https://doi.org/10.17504/protocols.io.9ieh4be
+Experimental Approach: Anatomy, Histology, Microscopy
+Subject Information:
+
+Anatomical structure: Vagus nerve
+Species: Pig
+Sex: Female, Male
+Age range: Juvenile
+Number of samples: 8 samples from 8 subjects
+
+Keywords: Vagus nerve, Histology, Trichrome, Vns, Vagus nerve stimulation, Vagotopy, Pig, Morphology
+
+About this dataset
+Title: Histology of pig cervical vagus nerve
+First Published: April 19, 2023
+Last Published: July 17, 2023
+Contact Author:
+Megan Settell
+settell@wisc.edu
+Award(s): NIH OT2OD025340
+Funding Program(s): SPARC
+Associated project(s): Modeling activation and block of autonomic nerves for analysis and design
+Institution(s): Duke University
+About this version
+Version 1 Revision 1: Publication date: April 19, 2023 (Last updated: July 17, 2023)
+Dataset DOI: https://doi.org/10.26275/f5se-ynpk
+
+Decoding vagus nerve activity with carbon nanotube sensors in freely moving rodents
+Contributors: 
+Joseph Marmerstein
+,
+Grant McCallum
+,
+Aaron Rodrigues
+,
+Dominique Durand
+Description: A carbon nanotube yarn (CNTY) biosensor was used to chronically record from the vagus nerves of freely moving rats for over 40 continuous hours.
+Viewing version: 1.0
+DOI: 10.26275/do5j-mz5q
+April 15, 2023
+828 Files
+498.47 GB
+Latest version: 1.0
+April 15, 2023
+View other versions
+Primary Publication(s):
+Marmerstein, J., McCallum, G., and Durand, D. (2022) Decoding Vagus-Nerve Activity with Carbon Nanotube Sensors in Freely Moving Rodents. Biosensors. http://dx.doi.org/10.3390/bios12020114
+Usage Rights: CC-BY-4.0
+Downloads
+
+Abstract
+
+Study Purpose: The study aims to analyze the first chronic recordings of vagal spikes and the correlation of signals to several behaviors in healthy rats.
+
+Data Collection: The study uses chronic recordings of vagal signals from awake, freely moving rats for >48 h up to two weeks after implantation. The neural-recording data is synchronized with a continuous video recording of the subjects.
+
+Primary Conclusion: The study reports several spike clusters that show tuning to animal eating and the firing dynamics of multiple decoded spike clusters can be used to classify eating compared to drinking, grooming, and resting behaviors.
+
+Curator's Notes
+
+Experimental Design: In this study, we use carbon nanotube yarn (CNTY) biosensors to make chronic recordings of the vagus nerves of freely moving rats. The recordings were performed under different conditions: baseline (under anesthesia), wakeup (removal of anesthesia), and awake (active state). The recordings were synchronized with continuous video recordings of the rats, which were used to identify behaviors such as eating, drinking, grooming, and resting. The raw data is provided in the form of .rhd files and videos of the recordings during the awake performance. Spike sorting was used to separate distinct spike clusters, which were then correlated with the identified behaviors. The interspike interval distributions were also found to change in response to food intake, providing another feature that can be used to decode spontaneous vagal activity.
+
+Completeness: This dataset is part of a larger study: Chronic recording in the vagus nerve with carbon nanotube yarn (CNTY) electrodes.
+
+Subjects & Samples: Adult male (n=2) Sprague-Dawley rats (RRID:RGD_70508) were used in this study.
+
+Primary vs derivative data: Primary data is organized in folders by the subject ID and includes raw .rhd files of the recordings under three performance categories and videos during the awake performances. There is no derivative data folder.
+
+Important Information: The paper associated with this dataset only used the awake performances for analysis.
+
+Code Availability: The Matlab code provided can be used to open and analyze the raw data. A bash script is also provided to automate the analysis and streamline workflow.
+
+Metadata
+Experimental Design:
+
+Protocol Links:
+https://doi.org/10.17504/protocols.io.4r3l273x3g1y/v1
+Experimental Approach: Electrophysiology, Physiology
+Subject Information:
+
+Anatomical structure: Vagus nerve
+Species: Rat
+Sex: Male
+Age range: n/a
+Number of samples: n/a
+Keywords: Vagus nerve, Intraneural, Decoding, Intrafascicular, Recording, Carbon nanotube
+
+About this dataset
+Title: Decoding vagus nerve activity with carbon nanotube sensors in freely moving rodents
+First Published: April 15, 2023
+Last Published: April 15, 2023
+Contact Author:
+Aaron Rodrigues
+ajr242@case.edu
+Award(s):
+Funding Program(s):
+Associated project(s):
+Institution

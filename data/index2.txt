@@ -1,0 +1,71 @@
+Decoding vagus nerve activity with carbon nanotube sensors in freely moving rodents
+Contributors: 
+Joseph Marmerstein
+,
+Grant McCallum
+,
+Aaron Rodrigues
+,
+Dominique Durand
+Description: A carbon nanotube yarn (CNTY) biosensor was used to chronically record from the vagus nerves of freely moving rats for over 40 continuous hours.
+Viewing version: 1.0
+DOI: 10.26275/do5j-mz5q
+April 15, 2023
+828 Files
+498.47 GB
+Latest version: 1.0
+April 15, 2023
+View other versions
+Primary Publication(s):
+Marmerstein, J., McCallum, G., and Durand, D. (2022) Decoding Vagus-Nerve Activity with Carbon Nanotube Sensors in Freely Moving Rodents. Biosensors. http://dx.doi.org/10.3390/bios12020114
+Usage Rights: CC-BY-4.0
+Downloads
+
+Abstract
+
+Study Purpose: The study aims to analyze the first chronic recordings of vagal spikes and the correlation of signals to several behaviors in healthy rats.
+
+Data Collection: The study uses chronic recordings of vagal signals from awake, freely moving rats for >48 h up to two weeks after implantation. The neural-recording data is synchronized with a continuous video recording of the subjects.
+
+Primary Conclusion: The study reports several spike clusters that show tuning to animal eating and the firing dynamics of multiple decoded spike clusters can be used to classify eating compared to drinking, grooming, and resting behaviors.
+
+Curator's Notes
+
+Experimental Design: In this study, we use carbon nanotube yarn (CNTY) biosensors to make chronic recordings of the vagus nerves of freely moving rats. The recordings were performed under different conditions: baseline (under anesthesia), wakeup (removal of anesthesia), and awake (active state). The recordings were synchronized with continuous video recordings of the rats, which were used to identify behaviors such as eating, drinking, grooming, and resting. The raw data is provided in the form of .rhd files and videos of the recordings during the awake performance. Spike sorting was used to separate distinct spike clusters, which were then correlated with the identified behaviors. The interspike interval distributions were also found to change in response to food intake, providing another feature that can be used to decode spontaneous vagal activity.
+
+Completeness: This dataset is part of a larger study: Chronic recording in the vagus nerve with carbon nanotube yarn (CNTY) electrodes.
+
+Subjects & Samples: Adult male (n=2) Sprague-Dawley rats (RRID:RGD_70508) were used in this study.
+
+Primary vs derivative data: Primary data is organized in folders by the subject ID and includes raw .rhd files of the recordings under three performance categories and videos during the awake performances. There is no derivative data folder.
+
+Important Information: The paper associated with this dataset only used the awake performances for analysis.
+
+Code Availability: The Matlab code provided can be used to open and analyze the raw data. A bash script is also provided to automate the analysis and streamline workflow.
+
+Metadata
+Experimental Design:
+
+Protocol Links:
+https://doi.org/10.17504/protocols.io.4r3l273x3g1y/v1
+Experimental Approach: Electrophysiology, Physiology
+Subject Information:
+
+Anatomical structure: Vagus nerve
+Species: Rat
+Sex: Male
+Age range: n/a
+Number of samples: n/a
+Keywords: Vagus nerve, Intraneural, Decoding, Intrafascicular, Recording, Carbon nanotube
+
+About this dataset
+Title: Decoding vagus nerve activity with carbon nanotube sensors in freely moving rodents
+First Published: April 15, 2023
+Last Published: April 15, 2023
+Contact Author:
+Aaron Rodrigues
+ajr242@case.edu
+Award(s):
+Funding Program(s):
+Associated project(s):
+Institution
