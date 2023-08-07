@@ -54,14 +54,16 @@ The collected data were preprocessed using [OpenAI ChatGPT](https://chat.openai.
 - Create a virtual environment `conda create -n chat`
 - Activate the virtual environment `conda activate chat`
 - Install requirements `pip install -r requirements.txt`
-- Run the app `python app.py`
+- Run the app `python app.py --hf_token <YOUR-HUGGING-FACE_TOKEN>`
 - Open the app on your browser `http://127.0.0.1:7860`
 
-From the CLI:
-
-Run `python3 app.py --hf_token <YOUR-HUGGING-FACE_TOKEN>`
-
 You should see the Gradio interface running locally and you would be prompted to enter your query.
+
+# Troubleshooting
+
+If you get issues with installing hnswlib, try installing it from source: `pip install git+https://github.com/nmslib/hnswlib.git`.
+
+You may also need to run `export HNSWLIB_NO_NATIVE=1`. See this ongoing [Github thread](https://github.com/nmslib/hnswlib/issues/442) for the discussion.
 
 # Reporting issues
 
