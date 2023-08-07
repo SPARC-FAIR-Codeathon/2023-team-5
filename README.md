@@ -41,13 +41,23 @@ In this project, we leverage open-source LLMs and the available data on the SPAR
 
 ## Data
 
-We gathered data from various pages of the **SPARC** portal, including the [SPARC Data & Models](https://sparc.science/data?type=dataset) page and other provided web links. For our model training, we randomly picked 12 datasets that contain valuable information related to related datasets, descriptions, abstracts, protocols, and other relevant details.
+We gathered data from various pages of the **SPARC** portal, 
+including the [SPARC Data & Models](https://sparc.science/data?type=dataset) 
+page and other provided web links. 
+For our model, we randomly picked 15 
+datasets that contain valuable information related to related datasets, descriptions, abstracts, protocols, and other relevant details.
 
 ## Data pre-processing
 
-## Model and Model Training
+The data from the datasets were stores manually in `.txt` files.
+They include descriptions about the datasets. They are available in the
+`texts` folder of the repo.
 
-The collected data were preprocessed using [OpenAI ChatGPT](https://chat.openai.com/) and converted into prompts and answers. This data was used to train our models.
+## Model
+
+We use publicly available HuggingFace models for vectorizing our data.
+Then we retrieve the information via prompt and answering through an
+LLM model and finally, we use gradio to serve as a GUI.
 
 # Running the app
 
@@ -57,7 +67,8 @@ The collected data were preprocessed using [OpenAI ChatGPT](https://chat.openai.
 - Run the app `python app.py --hf_token <YOUR-HUGGING-FACE_TOKEN>`
 - Open the app on your browser `http://127.0.0.1:7860`
 
-You should see the Gradio interface running locally and you would be prompted to enter your query, like so:
+You should see the Gradio interface running locally, 
+and you would be prompted to enter your query, like so:
 
 ![gradio web app](image.png)
 
