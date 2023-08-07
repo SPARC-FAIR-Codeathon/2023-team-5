@@ -57,7 +57,9 @@ The collected data were preprocessed using [OpenAI ChatGPT](https://chat.openai.
 - Run the app `python app.py --hf_token <YOUR-HUGGING-FACE_TOKEN>`
 - Open the app on your browser `http://127.0.0.1:7860`
 
-You should see the Gradio interface running locally and you would be prompted to enter your query.
+You should see the Gradio interface running locally and you would be prompted to enter your query, like so:
+
+![gradio web app](image.png)
 
 # Troubleshooting
 
