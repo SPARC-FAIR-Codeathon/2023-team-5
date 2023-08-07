@@ -67,7 +67,7 @@ Since the codeathon focused on FAIR data principles, it was essential to ensure 
 
 # Team Members
 
-- [Alireza Moshayedi](https://github.com/alireza)[Lead]
+- [Alireza Moshayedi](https://github.com/alrzmshy)[Lead]
 - [Jialin](https://github.com/jlin95)[System Engineer]
 
 - [Anmol Kiran](https://github.com/codemeleon)(Writer- Documentation)
