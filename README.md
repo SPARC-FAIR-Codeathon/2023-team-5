@@ -67,6 +67,8 @@ If you get issues with installing hnswlib, try installing it from source: `pip i
 
 You may also need to run `export HNSWLIB_NO_NATIVE=1`. See this ongoing [Github thread](https://github.com/nmslib/hnswlib/issues/442) for the discussion.
 
+Then proceed with installing the requirements from `requirements.txt`.
+
 # Reporting issues
 
 Please report an issue or suggest a new feature using the [issue page](https://github.com/SPARC-FAIR-Codeathon/2023-team-5/issues). Check existing issues before submitting a new one.
