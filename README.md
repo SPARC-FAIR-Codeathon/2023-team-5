@@ -57,6 +57,12 @@ In order to ensure the model's accessibility and usability for users, Python lan
 
 ## Running the app
 
+From the CLI:
+
+Run `python3 app.py --hf_token <YOUR-HUGGING-FACE_TOKEN>`
+
+You should see the Gradio interface running locally and you would be prompted to enter your query.
+
 # Reporting issues
 
 Please report an issue or suggest a new feature using the [issue page](https://github.com/SPARC-FAIR-Codeathon/2023-team-5/issues). Check existing issues before submitting a new one.
