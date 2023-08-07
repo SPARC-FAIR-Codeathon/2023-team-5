@@ -1,0 +1,76 @@
+ Cardioneural recordings using floating multi-channel plunge micro-electrodes in pigs
+Contributors: 
+Marmar Vaseghi
+,
+Jeffrey Ardell
+,
+Kalyanam Shivkumar
+Description: Methodology of neural recordings using array electrodes. How to analyze for signal to noise, spike sorting, and higher-level analysis.
+Viewing version: 5.0
+DOI: 10.26275/nomg-p2vk
+March 2, 2023
+67 Files
+1.64 GB
+Latest version: 5.0
+March 2, 2023
+View other versions
+Usage Rights: CC-BY-4.0
+Downloads: 49
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: This cardiac stimulation data was generated via mechanical-touch- and chemical to determine whether neurons within nodose ganglion have a unipolar or multimodal response.
+
+Data Collection: This dataset contains recordings made from pig nodose ganglion using a linear bipolar electrode. The dataset also includes instructions for analyzing the signal to noise, spike sorting, and higher-level analysis.
+
+Primary Conclusion: The study shows the capabilities of using floating multi-channel plunge micro-electrodes to define the modality sensitivity of cardiac sensory afferents
+
+Curator's Notes
+
+Experimental Design: Male pigs were all placed in the acute experimental group. Subjects were anesthetized, cardiac surface ECG recordings, and regional activation recovery intervals (ARI) recordings were completed. Left ventricle pressures and blood gasses were recorded.
+
+Completeness: This dataset is part of a larger study: Cardioneural recordings.
+
+Subjects & Samples: Male pigs (n=3) were used for this study, 4 - 5 months old.
+
+Primary vs derivative data: Primary folder is organized by subject ID and contains spike data (smrx), spike configuration (s2rx), experiment metadata (xlsx), and sorted neural spike data (mat). The derivative folder contains visualization files derived from corresponding primary data files.
+
+Important Notes: This study contains a Docs folder with pptx and tiff formatted files, with nodose ganglia in-vivo neural recording and workflow of data.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.2i4gcgw
+https://doi.org/10.17504/protocols.io.2ncgdaw
+Experimental Approach: Electrophysiology, Physiology
+
+Subject Information:
+Anatomical structure: Heart, Inferior vagus X ganglion
+Species: Pig
+Sex: Male
+Age range: Adolescent
+Number of samples: n/a
+Keywords:
+
+nodose ganglion, 
+
+microarray, 
+
+pig, 
+
+cardiac
+
+
+ About this dataset
+Title: Cardioneural recordings using floating multi-channel plunge micro-electrodes in pigs
+First Published: July 20, 2019
+Last Published: March 2, 2023
+Contact Author:
+Jeffrey Ardell
+jardell@mednet.ucla.edu
+Award(s): NIH OT2OD023848
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of the mammalian cardiac nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 5 Revision 0: Publication date: March 2, 2023 (Last updated: March 2, 2023)
+Dataset DOI: https://doi.org/10.26275/nomg-p2vk 

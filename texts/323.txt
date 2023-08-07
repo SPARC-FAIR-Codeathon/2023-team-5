@@ -1,0 +1,72 @@
+ Fecobionics study in fecal incontinence (FI) subjects
+Contributors: 
+Yanmin Wang
+,
+Bhavesh Patel
+,
+Ghassan Kassab
+,
+Hans Gregersen
+Description: We are developing a novel wireless device named Fecobionics for mapping colonic and anorectal neuromuscular function. The current dataset contains results from the Fecobionics test in the anorectal of human subjects with fecal incontinence.
+Viewing version: 1.0
+DOI: 10.26275/1phd-nw4a
+May 26, 2023
+49 Files
+838.01 MB
+Latest version: 1.0
+May 26, 2023
+View other versions
+Usage Rights: CC-BY-4.0
+Downloads: 5
+Abstract About Cite Files Gallery Versions
+
+Study Purpose: We are developing a novel wireless device named Fecobionics for mapping colonic and anorectal neuromuscular function. The purpose of this study is to test the device in normal subjects and subjects with fecal incontinence to compare anorectal functions in health and disease.
+
+Data Collection: This dataset contains transmitted Fecobionics data from the study in subjects with fecal incontinence.
+
+Primary Conclusion: Fecobionics successfully measures parameters (pressure, orientation, bending angle, cross-sectional area, etc.) during defecation.
+
+Curator's Notes
+
+Experimental Design: Briefly, the device was inserted into the participants' rectum, and several motions (cough, squeeze, straining) were made. If the device fell out before the completion of the test, it was re-inserted gently. Data was recorded in real-time. Each participant was tested up to 4 times on the following dates: The day before percutaneous nerve evaluation (PNE) (pre-PNE), one day after PNE (day 1), seven days after PNE (day 7), and thirty days after sacral nerve stimulation (SNS) treatment (day 30 post-SNS).
+
+Completeness: This dataset is part of a larger study: "Fecobionics studies in human participants."
+
+Subjects & Samples: Data from female (n=10) and male (n=3) human participants diagnosed with fecal incontinence were used in this study.
+
+Primary vs derivative data: Primary data is organized in folders named by subject ID. Each file in the primary folder (CSV format) contains the Fecobionics data (orientations, pressures, diameters, bending angle, etc.) measured in participants. The file name contains the measurement state (PrePNE, PNE Day 1, PNE Day 7, SNS Day 30 (we refer to the protocol for more details).
+Metadata
+
+Experimental Design:
+Protocol Links: n/a
+Experimental Approach: Behavior, Process qualification
+
+Subject Information:
+Anatomical structure: Colon
+Species: Human
+Sex: Female, Male
+Age range: n/a
+Number of samples: n/a
+Keywords:
+
+anorectum, 
+
+device, 
+
+gi
+
+
+ About this dataset
+Title: Fecobionics study in fecal incontinence (FI) subjects
+First Published: May 26, 2023
+Last Published: May 26, 2023
+Contact Author:
+Bhavesh Patel
+bpatel@calmi2.org
+Award(s): NIH OT2OD028203
+Funding Program(s): SPARC
+Associated project(s): Neurophysiological mechanism in sacral neuromodulation in patients suffering from fecal incontinence
+Institution(s): California Medical Innovations Institute
+About this version
+Version 1 Revision 0: Publication date: May 26, 2023 (Last updated: May 26, 2023)
+Dataset DOI: https://doi.org/10.26275/1phd-nw4a 

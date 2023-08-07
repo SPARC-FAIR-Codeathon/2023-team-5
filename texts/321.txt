@@ -1,0 +1,70 @@
+ Human cervical vagus nerve fascicle imaging with MicroCT
+Contributors: 
+Aniruddha Upadhye
+,
+Andrew Shoffstall
+Description: MicroCT imaging of the human cervical vagus nerve: slices at 0.5 cm spacing are provided across a 5 cm window representing the surgical window typical of vagus nerve stimulation. Derived data include fascicle morphometry, splitting and merging events.
+Viewing version: 1.0
+DOI: 10.26275/59t4-jlnz
+May 11, 2023
+282 Files
+428.24 MB
+Latest version: 1.0
+May 11, 2023
+View other versions
+Primary Publication(s):
+Upadhye, A., Kolluru, C., Druschel, L., Lababidi, L., Ahmad, S., Menendez, D., Buyukcelik, O., Settell, M., Blanz, S., Jenkins, M., Wilson, D., Zhang, J., Tatsuoka, C., Grill, W., Pelot, N., Ludwig, K., Gustafson, K., and Shoffstall, A. (2022) Fascicles split or merge every ∼560 microns within the human cervical vagus nerve. Journal of Neural Engineering. http://dx.doi.org/10.1088/1741-2552/ac9643
+Usage Rights: CC-BY-4.0
+Downloads: 5
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: Goal 1: Study and document the fascicle morphometry along the length of the cervical Vagus nerve in the surgical window. Goal 2: To visualize and quantify the fascicle reorganizations in the surgical window of the Human Vagus nerve.
+
+Data Collection: Data was collected with Quantum GX2 microCT Imaging System (Perkin Elmer, 139 Waltham, MA, USA).
+
+Primary Conclusion: We found that there are, on average 17.8 fascicle reorganization events in a 1cm window of the human cervical vagus nerve.
+
+Curator's Notes
+
+Experimental Design: A mid-cervical vagus nerve samples were harvested from de-identified donor sources. For the imaging studies, a Quantum GX2 microCT Imaging System (Perkin Elmer, Waltham, MA, USA) was used. The embedded nerve was placed in a 36 mm bed. The microCT scanner was warmed up as recommended by the manufacturer, and the nerve was scanned and reconstructed at 36 mm field of view (FOV). The resultant image block was 72 μm in voxel resolution (isotropic). Each scan spanned 1.8 cm of nerve length, with 0.3 cm overlap (i.e., 16.67%) between adjacent blocks to serve image reconstruction.
+
+Completeness: This dataset is complete.
+
+Subjects & Samples: Specimens were harvested from de-identified human donor sources. Eight mid-cVN specimens from five formaldehyde fixed cadavers (three left nerves, five right nerves), secondary to use in medical school cadaver lab training, were used in this study.
+
+Primary vs derivative data: Primary data is organized in folders by the subject ID, then sample ID subfolders, and contains files of the Micro CT scan of the osmium stained cervical vagus nerve. Samples were scanned with 36 microns FOV and XY resolution of 10 microns. The derivative folder contains converted primary microscopy images and a .xlsx file with summary fascicle morphometry, splitting, and merging events. Image data (JPEG2000 and OME-TIFF) was derived from primary images (.tif). Primary images were converted with lossless compression to JPEG2000 (.jpx) by MBF Bioscience for web streaming and visualization on the SPARC Data Portal. Primary images were also converted with lossless compression to OME-TIFF (.tif) by MBF Bioscience.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.bp2l61715vqe/v2
+Experimental Approach: Anatomy, Radiology
+
+Subject Information:
+Anatomical structure: Vagus nerve
+Species: Human
+Sex: n/a
+Age range: n/a
+Number of samples: 8 samples from 5 subjects
+Keywords:
+
+vagus nerve simulation, 
+
+fascicular organisation, 
+
+epilepsy
+
+ About this dataset
+Title: Human cervical vagus nerve fascicle imaging with MicroCT
+First Published: May 11, 2023
+Last Published: May 11, 2023
+Contact Author:
+Aniruddha Upadhye
+aru6@case.edu
+Award(s): NIH OT2OD025340
+Funding Program(s): SPARC
+Associated project(s): Modeling activation and block of autonomic nerves for analysis and design
+Institution(s): Duke University
+About this version
+Version 1 Revision 0: Publication date: May 11, 2023 (Last updated: May 11, 2023)
+Dataset DOI: https://doi.org/10.26275/59t4-jlnz 

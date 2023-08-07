@@ -1,0 +1,79 @@
+ Visceromotor responses (VMR) to colorectal distension in mice with silenced or activated enterochromaffin cells
+Contributors: 
+James Bayrer
+,
+Kristina Braverman
+,
+Holly Ingraham
+,
+Stuart Brierley
+,
+David Julius
+Description: Visceromotor responses (VMR) to colorectal distension (CRD) measured by EMG recordings from electrodes implanted in the abdominal musculature.
+Viewing version: 1.0
+DOI: 10.26275/zsop-bygv
+April 11, 2023
+132 Files
+1.22 GB
+Latest version: 1.0
+April 11, 2023
+View other versions
+Primary Publication(s):
+Bayrer, J., Castro, J., Venkataraman, A., Touhara, K., Rossen, N., Morrie, R., Hendry, A., Madden, J., Braverman, K., Schober, G., Brizuela, M., Silva, C., Ingraham, H., Brierley, S., and Julius, D. (2022) Gut Enterochromaffin Cells are Critical Drivers of Visceral Pain and Anxiety. http://dx.doi.org/10.1101/2022.04.04.486775
+Usage Rights: CC-BY-4.0
+Downloads: 3
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: Determine the impact of enterochromaffin (EC) cell activity on visceral nociception. Intersectional genetic approach using dual recombination (Pet-flp, Tac1-Cre) to target PFtox or hM3Dq expression selectively in EC cells.
+
+Data Collection: Spike2 files containing EMG recordings from abdominal muscle and pressure traces during colorectal distension.
+
+Primary Conclusion: Enterochromaffin (EC) cells activation hypersensitizes the visceromotor response (VMR) to colorectal distension (CRD) in a sex-dependent manner.
+
+Curator's Notes
+
+Experimental Design: Abdominal EMG was used to monitor the visceromotor response (VMR) to colorectal distension (CRD) in fully awake animals. The bare endings of two Teflon-coated stainless steel wires (Advent Research Materials Ltd, Oxford, UK) were surgically sutured into the right abdominal muscle and tunneled subcutaneously to be exteriorized at the base of the subject's neck for future access. Animals were allowed to recover for at least seven days before baseline VMR. During experiments, the EMG electrodes were relayed to a data acquisition system. Distensions were applied at 20-40-50-60-70-80mmHg (20 s duration each) at 2 min intervals so that the last distension was performed ~20 min after intracolonic treatment with either vehicle, isovalerate, or ~40 min of deschloroclozapine (DCZ) administration. The signal was recorded (NL100AK headstage), amplified (NL104), filtered (NL 125/126, Neurolog, Digitimer Ltd, bandpass 50–5000 Hz), and digitized (CED 1401, Cambridge Electronic Design (CED), Cambridge, UK) or for EChM3Dq experiments through the Ponemah Software System (Data Sciences International) for off-line analysis using Spike2 Software (CED). The analog EMG signal was rectified and integrated. To quantify the magnitude of the VMR at each distension pressure, the area under the curve (AUC) during the distension (20 s) was corrected for baseline activity (AUC pre-distension, 20 s). We also calculated the total AUC, the summation of data points across all distension pressures for each animal.
+
+Completeness: This dataset is a part of the larger study: Mouse genetic models to manipulate enterochromaffin cell activity.
+
+Subjects & Samples: Female (n=29) and male (n=49) adult transgenic mice were used in this study.
+
+Primary vs derivative data: Primary data is organized by subject ID. Each folder contains raw recordings from multiple performances detailed in the performances.xlsx file and comprises Spike2 data files with EMG and pressure recordings. There is no derivative data folder.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.n92ldp347l5b/v1
+Experimental Approach: Electrophysiology, Physiology
+
+Subject Information:
+Anatomical structure: Colon
+Species: Mouse
+Sex: Female, Male
+Age range: Adult
+Number of samples: n/a
+Keywords:
+
+serotonin, 
+
+visceromotor response, 
+
+visceral pain, 
+
+enterochromaffin cell
+
+ About this dataset
+Title: Visceromotor responses (VMR) to colorectal distension in mice with silenced or activated enterochromaffin cells
+First Published: April 11, 2023
+Last Published: April 11, 2023
+Contact Author:
+James Bayrer
+james.bayrer@ucsf.edu
+Award(s): NIH U01NS113869
+Funding Program(s): SPARC
+Associated project(s): Mapping gut-spinal cord connections in visceral pain
+Institution(s): University of California, San Francisco
+About this version
+Version 1 Revision 0: Publication date: April 11, 2023 (Last updated: April 11, 2023)
+Dataset DOI: https://doi.org/10.26275/zsop-bygv 
+

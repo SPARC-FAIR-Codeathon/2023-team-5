@@ -1,0 +1,73 @@
+hemogenetic activation or inhibition of cholinergic or nitrergic myenteric neurons of mouse colon
+Contributors: 
+Dante Heredia
+,
+Thomas Gould
+Description: Contractile response to the chemogenetic activation or inhibition of distinct myenteric neuronal subsets
+Viewing version: 3.0
+DOI: 10.26275/kj2u-2ukf
+March 2, 2023
+121 Files
+2.04 GB
+Latest version: 3.0
+March 2, 2023
+View other versions
+Usage Rights: CC-BY-4.0
+Downloads: 22
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: This dataset examines the effect of chemogenetic activation of cholinergic and nitrergic myenteric neurons on motility of the colon.
+
+Data Collection: Simultaneous tension recordings of the proximal (pC), middle (mC) and distal colon (dC) were collected.
+
+Primary Conclusion: None stated
+
+Curator's Notes
+
+Experimental Design: Transgenic mice expressing the chemogenetic proteins hM3Dq or hM4Di in cholinergic or nitrergic colonic myenteric neurons were used. The colon was dissected, rod placed within, three tension transducers glued to the proximal, middle, distal colon. Spontaneous contractions in all three channels were initially recorded. Then 10 micromolar Clozapine-N-Oxide (CNO) was added in order to activate the modified muscarinic receptors hM3Dq and hM4Di that were expressed in cholinergic and nitrergic neurons using ChAT-Cre and nNOS-CreERT2 drivers. When activated by CNO, these two modified receptors induce signaling through alpha-q or alpha-i pathways, leading to excitation or inhibition of neurons, respectively. These chemogenetic molecules are also referred to as designer receptors exclusively activated by designer drugs or DREAADs.
+
+Completeness: This dataset is a part of a larger study: Tension files of the colon after chemogenetic activation and inhibition of cholinergic or nitrergic myenteric neurons
+
+Subjects & Samples: This study used 24 mice from 6-18 weeks of age: 3 male and 3 female ChAT-Cre, conditional hM3Dq (for inducible Gaq signaling) mice or ChAT-Gaq mice 3 male and 3 female nNOS-CreERT2, conditional hM3Dq mice or nNOS-Gaq mice 3 male and 3 female ChAT-Cre, conditional hM4Di (for inducible Gai signaling) mice or ChAT-Gai mice 3 male and 3 female nNOS-CreERT2, conditional hM4Di mice or nNOS-Gai mice
+
+Primary vs derivative data: Primary data are organized by subject name and contain files with individual tension recording as raw tracks in the AcqKnowledge Data Acquisition and Analysis Software. The derivative folder contains pdf files for each animal and a summary in pptx slides showing tension recording tracks of the 24 animals. Top trace (red) = distal colon (dC), middle (green) = transverse colon (tC), bottom (pink) = proximal colon. Low-power images in top left are whole track, high-power images in the bottom left are enlarged regions.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.btuznnx6
+Experimental Approach: Chemogenetics, Physiology
+
+Subject Information:
+Anatomical structure: Colon, Myenteric nerve plexus
+Species: Mouse
+Sex: Female, Male
+Age range: Adult
+Number of samples: n/a
+Keywords:
+
+cholinergic, 
+
+myenteric plexus, 
+
+nitrergic, 
+
+motility, 
+
+optogenetics
+
+
+ About this dataset
+Title: Chemogenetic activation or inhibition of cholinergic or nitrergic myenteric neurons of mouse colon
+First Published: June 3, 2021
+Last Published: March 2, 2023
+Contact Author:
+Thomas Gould
+tgould@med.unr.edu
+Award(s): NIH OT2OD024899
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of mammalian colonic nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 3 Revision 0: Publication date: March 2, 2023 (Last updated: March 2, 2023)
+Dataset DOI: https://doi.org/10.26275/kj2u-2ukf 

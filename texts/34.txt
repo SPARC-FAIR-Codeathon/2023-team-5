@@ -1,0 +1,86 @@
+ Influence of direct colon tissue electrical stimulation on colonic motility in anesthetized male Yucatan minipig
+Contributors: 
+Muriel Larauche
+,
+Yushan Wang
+,
+Po-Min Wang
+,
+Genia Dubrovsky
+,
+Yi-Kai Lo
+,
+Ian Hsiang
+,
+James Dunn
+,
+Wentai Liu
+,
+Yvette Tache
+,
+Million Mulugeta
+Description: Direct proximal colon, transverse colon and colorectum wall electrical stimulation; monitor colon wall bio-impedance and colon manometry in all regions (proximal, transverse and distal) before, during and post stimulation.
+Viewing version: 6.0
+DOI: 10.26275/6lqa-ghyr
+July 21, 2023
+217 Files
+64.2 GB
+Latest version: 6.0
+July 21, 2023
+View other versions
+Primary Publication(s):
+Larauche, M., Wang, Y., Wang, P., Dubrovsky, G., Lo, Y., Hsiang, E., Dunn, J., Taché, Y., Liu, W., and Million, M. (2020) The effect of colonic tissue electrical stimulation and celiac branch of the abdominal vagus nerve neuromodulation on colonic motility in anesthetized pigs. Neurogastroenterology &amp; Motility. http://dx.doi.org/10.1111/nmo.13925
+Usage Rights: CC-BY-4.0
+Downloads: 1
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: Neuromodulation is emerging as an alternative therapy to bowel dysfunctions. However, knowledge of optimal stimulation modalities is lacking. This study aims to map the colonic wall impedance and luminal pressure changes to electrical stimulation of the colon and autonomic nerves in a porcine model.
+
+Data Collection: Direct electrical stimulation of proximal (pC), transverse (tC) and distal (dC) colon was done using planar flexible multi-electrode array panels. In all instances, pC, tC, and dC wall bioimpedance, and luminal pressure (manometry) changes were monitored before, during, and after stimulation. The regional colonic motility index was quantified by measuring the area under the curve of the phasic component of the luminal pressure trace (pAUC). Colonic luminal pressure map was generated.
+
+Primary Conclusion: Direct colon wall electrical stimulation causes primarily robust local contractions but also modulates distant colonic regions motility.
+
+Curator's Notes
+
+Experimental Design: Anesthetized male Yucatan pigs (27-32 kg) were used and assigned to 3 experimental groups by stimulation organ: (1) direct stimulation - transverse colon, (2) direct stimulation-proximal colon, and (3) direct stimulation - distal colon. Signals recorded from manometry probes inserted into the proximal, transverse, and distal colonic regions. The probes were used to measure the effect of electrical stimulation, using planar electrodes apposed to the serosal side of the colonic tissue at multiple sites, in an acutely anesthetized preparation. The effect of stimulation was quantified as motility index assessments before, during, and after stimulation, and the data was used to create a functional map of colonic motor response to localized colon stimulations.
+
+Completeness: Complete
+
+Subjects & Samples: Young adult male Yucatan pigs (n=28), 27 - 32 kilograms, were used for this study.
+
+Primary vs derivative data: The primary folder is organized by subject identification and with results in xlsx, pl2, smrx, and s2rx formatted files. The derivative folder contains a summary of all experiments as an xlsx formatted document
+
+Important Notes: (1) There is a Docs folder attached to this study. This folder contains metadata for the study (xlsx) and an image representative of this data(jpg).
+
+Code Availability: The compressed Matlab code (rar) used to extract data from .pl2 format is included in the Code folder. The extracted data can be found in the Derivative data folder.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.3rmgm46
+Experimental Approach: Electrophysiology, Physiology
+
+Subject Information:
+Anatomical structure: Colon
+Species: Pig
+Sex: Male
+Age range: Adult
+Number of samples: n/a
+
+
+
+
+ About this dataset
+Title: Influence of direct colon tissue electrical stimulation on colonic motility in anesthetized male Yucatan minipig
+First Published: July 23, 2019
+Last Published: July 21, 2023
+Contact Author:
+Yvette Tache
+ytache@mednet.ucla.edu
+Award(s): NIH OT2OD024899
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of mammalian colonic nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 6 Revision 0: Publication date: July 21, 2023 (Last updated: July 21, 2023)
+Dataset DOI: https://doi.org/10.26275/6lqa-ghyr 

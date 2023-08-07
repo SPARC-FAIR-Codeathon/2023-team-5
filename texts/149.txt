@@ -1,0 +1,75 @@
+ Influence of acute thoracolumbar root nerves electrical stimulation on colonic motility in anesthetized male Yucatan minipigs
+Contributors: 
+Muriel Larauche
+,
+Yushan Wang
+,
+Yan-Peng Chen
+,
+Wentai Liu
+,
+Million Mulugeta
+Description: Acute thoracolumbar nerve electrical stimulation; monitor colon manometry in all regions (proximal, transverse and distal) before, during and post stimulation.
+Viewing version: 3.0
+DOI: 10.26275/abac-rzbv
+July 21, 2023
+96 Files
+210.84 MB
+Latest version: 3.0
+July 21, 2023
+View other versions
+Primary Publication(s):
+Larauche, M., Wang, Y., Wang, P., Dubrovsky, G., Lo, Y., Hsiang, E., Dunn, J., Taché, Y., Liu, W., and Million, M. (2020) The effect of colonic tissue electrical stimulation and celiac branch of the abdominal vagus nerve neuromodulation on colonic motility in anesthetized pigs. Neurogastroenterology &amp; Motility. http://dx.doi.org/10.1111/nmo.13925
+Usage Rights: CC-BY-4.0
+Downloads: 28
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: Neuromodulation is emerging as an alternative therapy to bowel dysfunctions. However, knowledge of optimal stimulation modalities is lacking. This study aims to map the colonic wall impedance and luminal pressure changes to electrical stimulation of the autonomic nerves in a porcine model.
+
+Data Collection: The stimulation of the thoracolumbar nerve roots (T12 and L1) was done using needle electrodes alone without block. In all instances, proximal (pC), transverse (tC), and distal (dC) colon luminal pressure (manometry) changes were monitored before, during, and after stimulation. The regional colonic motility index was quantified by measuring the area under the curve of the phasic component of the luminal pressure trace (pAUC). Colonic luminal pressure map was generated. Contractions frequency power spectral analysis was performed.
+
+Primary Conclusion: None stated.
+
+Curator's Notes
+
+Experimental Design: Anesthetized male Yucatan pigs were used and assigned to 4 experimental groups: (1) acute L1 30 Hz pulse-train (PT) protocol without block, (2) acute L1 10 Hz continuous protocol without block, (3) acute T12 30 Hz PT without block, (4) acute T12 10 Hz continuous protocol without block. Signals were recorded from manometry probes inserted into the proximal, transverse, and distal colonic regions. The probes were used to measure the effect of electrical stimulation, using needle electrodes placed on the T12 or L1 spinal root proximally to the DRG (afferent fibers only) or distally to the DRG (afferent + efferent fibers) in an acutely anesthetized preparation. The effect of stimulation was quantified as motility index assessments before, during, and after stimulation, and the data was used to create a functional map of colonic motor response to T12 and L1 stimulation (pressure map). Contractions frequency power spectral analysis was performed.
+
+Completeness: This dataset is a part of a larger study pertaining to nerve stimulation on colonic motility in Yucatan minipigs.
+
+Subjects & Samples: Young adult male (n=8) Yucatan pigs (RRID:NSRRC_0012), 21 - 28 kilograms, were used for this study.
+
+Primary vs derivative data: The primary folder is organized by subject identification and with results in smrx, and s2rx formatted files stored in subfolders reflecting the type of stimulation performed. The derivative folder contains a summary of all experiments as an xlsx formatted document, and motility index results in an xlsx format and represented as pressure maps in jpg format and video animations in mp4 format organized by the simulation type for all experimental subjects.
+
+Important Notes: This dataset is currently undergoing image registration and will be updated once this process is complete.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.3rmgm46
+Experimental Approach: Electrophysiology, Physiology
+
+Subject Information:
+Anatomical structure: Colon
+Species: Pig
+Sex: Male
+Age range: Adult
+Number of samples: n/a
+
+
+
+
+ About this dataset
+Title: Influence of acute thoracolumbar root nerves electrical stimulation on colonic motility in anesthetized male Yucatan minipigs
+First Published: June 14, 2021
+Last Published: July 21, 2023
+Contact Author:
+Muriel Larauche
+mlarauche@mednet.ucla.edu
+Award(s): NIH OT2OD024899
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of mammalian colonic nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 3 Revision 0: Publication date: July 21, 2023 (Last updated: July 21, 2023)
+Dataset DOI: https://doi.org/10.26275/abac-rzbv 
+

@@ -1,0 +1,67 @@
+ Triaxial mechanical testing of dog colon segments
+Contributors: 
+Bhavesh Patel
+,
+Yanmin Wang
+,
+Ghassan Kassab
+,
+Hans Gregersen
+Description: Measurement data related to the mechanical testing of dog colon samples under triaxial (inflation, extension, torsion) loading.
+Viewing version: 3.0
+DOI: 10.26275/d41u-sokg
+July 20, 2023
+107 Files
+7.1 MB
+Latest version: 3.0
+July 20, 2023
+View other versions
+Usage Rights: CC-BY-4.0
+Downloads: 23
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: The goal of the study was to conduct ex vivo mechanical testing of dog colon samples for understanding the mechanical behavior of the tissue.
+
+Data Collection: Data was collected by testing tubular dog colon samples on our custom-built triaxial testing machines. It consists of simultaneous measurements of stretch, axial force, pressure, diameters (at three locations along the length of the tissue), twist, and torque.
+
+Primary Conclusion: Results provided the first passive loading-deformation relations for the dog colon under simultaneous triaxial loading.
+
+Curator's Notes
+
+Experimental Design: Dogs, after being anesthetized, had the Fecobionics device transanally inserted into the rectum, then inflated at 20 ml, and then extracted manually or defecated naturally. The dogs were divided into three groups: The acute group with Fecobionics device (n=3) in which the animals were euthanized immediately after the removal of the device, and the chronic group with Fecobionics device (n=5) in which the animals were terminated after 2 weeks and a control chronic group (n=2). Colon samples were collected after the animals were euthanized and subject to mechanical testing (inflation, extension, torsion). Tissues from animals from a control group (n=2) were included as well in the study.
+
+Completeness: This dataset is a part of the larger study: Safety Study of Wireless Fecobionics Device.
+
+Subjects & Samples: Male (n=10) Mongrel dogs weighing about 25kg, age 6-9 months were used in the study.
+
+Primary vs derivative data: Data in the primary folder is divided by the subject identification ID. Each subject folder contains a subfolder with detailed tabular measurement data related to the mechanical testing of dog colon samples under triaxial (inflation, extension, torsion) loading. The derivative folder contains files describing column headers .csv for corresponding data files and information in header files .docx for data visualization purposes.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.bp7qmrmw
+Experimental Approach: Physiology
+
+Subject Information:
+Anatomical structure: Colon
+Species: Dog
+Sex: Male
+Age range: Juvenile
+Number of samples: 10 samples from 10 subjects
+
+
+
+ About this dataset
+Title: Triaxial mechanical testing of dog colon segments
+First Published: May 15, 2021
+Last Published: July 20, 2023
+Contact Author:
+Bhavesh Patel
+bpatel@calmi2.org
+Award(s): NIH OT2OD025308
+Funding Program(s): SPARC
+Associated project(s): Fecobionics device for mapping colonic and anorectal neuromuscular function
+Institution(s): California Medical Innovations Institute
+About this version
+Version 3 Revision 0: Publication date: July 20, 2023 (Last updated: July 20, 2023)
+Dataset DOI: https://doi.org/10.26275/d41u-sokg 

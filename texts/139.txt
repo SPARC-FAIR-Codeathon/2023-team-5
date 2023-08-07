@@ -1,0 +1,74 @@
+ RNA sequencing reveals novel transcripts from sympathetic stellate ganglia during cardiac sympathetic hyperactivity in rats
+Contributors: 
+Harvey Davis
+,
+Emma Bardsley
+,
+David Paterson
+Description: Stellate ganglia of 15-16 week old Wistar and Spontaneously Hypertensive Rats were analyzed by: RNA-sequencing, differential analysis, and gene ontology analysis. Data were analyzed by a pipeline consisting of Salmon, DESeq2, and clusterprofiler.
+Viewing version: 3.0
+DOI: 10.26275/6b53-usyr
+May 12, 2023
+31 Files
+3.48 MB
+Latest version: 3.0
+May 12, 2023
+View other versions
+Primary Publication(s):
+Bardsley, E., Davis, H., Ajijola, O., Buckler, K., Ardell, J., Shivkumar, K., and Paterson, D. (2018) RNA Sequencing Reveals Novel Transcripts from Sympathetic Stellate Ganglia During Cardiac Sympathetic Hyperactivity. Scientific Reports. http://dx.doi.org/10.1038/s41598-018-26651-7
+Usage Rights: CC-BY-4.0
+Downloads: 23
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose:In this study, RNA-sequencing is used to identify transcriptional differences in the sympathetic stellate ganglia between the 16-week-old normotensive Wistar strain and the spontaneously hypertensive rat, SHR, strain. This dataset should allow for further molecular characterization of hypertensive changes in a cardiac-innervating sympathetic ganglion.
+
+Data Collection: RNA-sequencing analysis of dataset derived from 10.1038/sdata.2018.123 and https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110197 (Gene expression omnibus GSE110197). The analysis contains differential expression analysis and gene ontology analysis of Wistar vs SHR right stellate ganglion comparison at 15-16 weeks of age. Data was analyzed by a pipeline consisting of Salmon, DESeq2, and cluster profile.
+
+Primary Conclusion: none stated
+
+Curator's Notes
+
+Experimental Design: Right stellate ganglia were removed from four Wistar rats and four spontaneously hypertensive rat, SHR, rats at 16-weeks of age. These eight animals, four of each strain, constituted biological replicates. The clean stellate ganglia were chopped, triturated, digested in RNeasy RLT buffer, and RNA was extracted. Comparison of normotensive and hypertensive rat stellate ganglia was completed. Four biological replicates for both 16-week Wistar (Wistar-control) and SHR (SHR-diseased) stellate ganglia samples were contrasted by high throughput sequencing. The samples were sequenced with a paired-end protocol (75 base pairs).
+
+Completeness: This dataset is complete.
+
+Subjects & Samples: (n=4) Wistar and (n=4) Spontaneously Hypertensive Rats age between 15-16 weeks were used in the study.
+
+Primary vs derivative data:. There is no primary data included in this dataset. Average values per strain, differential expression, Gene Ontology and KEGG data are listed in relevant derivative folders under samples. Original raw data is available online at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110197 (Gene expression omnibus GSE110197).
+Metadata
+
+Experimental Design:
+Protocol Links: n/a
+Experimental Approach: Transcriptomics
+
+Subject Information:
+Anatomical structure: Cervicothoracic ganglion, Heart
+Species: Rat
+Sex: Male
+Age range: Adult
+Number of samples: 8 samples from 8 subjects
+Keywords:
+
+transcriptomics, 
+
+differential expression, 
+
+rna-sequencing, 
+
+stellate ganglia
+
+
+ About this dataset
+Title: RNA sequencing reveals novel transcripts from sympathetic stellate ganglia during cardiac sympathetic hyperactivity in rats
+First Published: May 13, 2021
+Last Published: May 12, 2023
+Contact Author:
+Jeffrey Ardell
+jardell@mednet.ucla.edu
+Award(s): NIH OT2OD023848
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of the mammalian cardiac nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 3 Revision 0: Publication date: May 12, 2023 (Last updated: May 12, 2023)
+Dataset DOI: https://doi.org/10.26275/6b53-usyr 

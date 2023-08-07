@@ -1,0 +1,104 @@
+ Comparison of the intrinsic cardiac nervous system across male and female rat hearts
+Contributors: 
+Clara Leung
+,
+Shaina Robbins
+,
+Alison Moss
+,
+Maci Heal
+,
+Mahyar Osanlouy
+,
+Richard Christie
+,
+Todd Huffman
+,
+Navid Farahani
+,
+Corey Monteith
+,
+Jin Chen
+,
+Peter Hunter
+,
+Susan Tappan
+,
+Raj Vadigepalli
+,
+Zixi Cheng
+,
+James Schwaber
+Description: Single neurons were mapped and cardiac anatomy was annotated in image volumes of male and female rat hearts to compare the intrinsic cardiac nervous system between individuals and across sexes.
+Viewing version: 4.0
+DOI: 10.26275/yh5c-5pjy
+March 22, 2023
+92 Files
+439.81 GB
+Latest version: 4.0
+March 22, 2023
+View other versions
+Usage Rights: CC-BY-4.0
+Downloads: 0
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: Recently, we have established an approach to comprehensively map the rat intrinsic cardiac nervous system (ICN) and herein apply this strategy for the comparison of the neuroanatomical organization of the ICN within and between sexes. Understanding the principle organization of the ICN across individuals will provide a structural basis for targeted physiological studies on the ICN in normal cardiac function and in pathological conditions.
+
+Data Collection: This dataset contains two components. 1) 3D spatially tracked ICN neurons contextualized within the whole heart by the segmentation of cardiac anatomy for seven Fischer 344 (F344) rat hearts, four males, and three females (sub-54-5, sub-54-8, sub-54-9, sub-54-10, and sub-54-6, sub-54-11, sub-54-14). The 3D mapping data for each rat heart presented in this study were derived from their respective image volumes and were saved as XML files. 2) Image volumes corresponding to each of the seven rat hearts were all digitized and acquired by a Knife Edge Scanning Microscope (KESM) and were saved as JPX files. The image volumes for sub-54-5, sub-54-8, sub-54-6, sub-54-11 were compiled from coronal sectioned hearts, while the image volumes for sub-54-9 and 54-14 were transverse sectioned, and lastly, the image volume for sub-54-10 was sagittal sectioned. All XML files and associated JPX files are viewable through Tissue Mapper.
+
+Primary Conclusion: The pattern, distribution, and clustering of ICN neurons across male and female rat hearts are highly conserved and demonstrates a consistent organizational plan with distinct clusters being localized around the hilum of the pulmonary veins and left atrium, superior vena cava, and right atrium, left atrioventricular sulcus, and the anterior interatrial sulcus. Female rat hearts were observed to have fewer neurons, lower packing density, and slightly reduced distribution but ICN were also localized in the same four anatomical regions. Lastly, the registration of the ICN from two animals first onto individual scaffolds then followed by integration into one generic scaffold provides a framework for the future incorporation of different experimental results in one common coordinate space.
+
+Curator's Notes
+
+Experimental Design: Rat hearts were first fixed and stained with Cresyl Echt Violet to visualize the ICN neurons. The whole hearts were then sectioned and imaged in three different orientations with a Knife Edge Scanning Microscope (KESM). The resulting image tiles were stitched together to assemble 7 image stacks. Afterward, single neurons were mapped, and cardiac anatomy was segmented on select sections of the image stacks with Tissue Mapper software (from MBF Bioscience). The spatial distribution of individually marked neurons and annotated heart anatomy were then visualized in a 3D reconstructed model of the heart.
+
+Completeness: Batch. See also https://sparc.science/datasets/37
+
+Subjects & Samples: The subjects for this study were 3 normal male and 4 normal female Fischer 344 rats. Samples were derived from each rat heart.
+
+Primary vs derivative data: The primary folder contains microscopic images (jpx) from each subject in the study (sub-54-6, sub-54-8, sub-54-9, sub-54-10, sub-54-11, sub-54-13, sub-54-14) except for sub-54-5. Primary image data for sub-54-5 is contained in the previous preliminary dataset (https://sparc.science/datasets/37). The derivative folder contains segmentation data (xml) of mapped ICN neurons and cardiac anatomy delineations from the following subjects: sub-54-5, sub-54-6, sub-54-8, sub-54-9, sub-54-10, sub-54-11, sub-54-14. Segmentation data was created in and can be viewed in MBF Bioscience software. The derivative folder also contains integrated scaffold files (JSON) for sub-54-5 and sub-54-8 experimental data that can be viewed and interacted with through the portal viewer.
+
+Code Availability: Not Applicable
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.bdz5i786
+Experimental Approach: Anatomy, Connectivity, Microscopy
+
+Subject Information:
+Anatomical structure: Heart
+Species: Rat
+Sex: Female, Male
+Age range: Juvenile
+Number of samples: 7 samples from 7 subjects
+Keywords:
+
+rat intrinsic cardiac neurons, 
+
+3d heart reconstructions, 
+
+rodent cardiac anatomy, 
+
+knife edge scanning microscopy, 
+
+sex differences
+
+
+ About this dataset
+Title: Comparison of the intrinsic cardiac nervous system across male and female rat hearts
+First Published: May 8, 2020
+Last Published: March 22, 2023
+Contact Author:
+Zixi Cheng
+zixi.cheng@ucf.edu
+Award(s): NIH OT2OD023848
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of the mammalian cardiac nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 4 Revision 0: Publication date: March 22, 2023 (Last updated: March 22, 2023)
+Dataset DOI: https://doi.org/10.26275/yh5c-5pjy 
+
+
+

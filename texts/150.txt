@@ -1,0 +1,83 @@
+ Influence of acute celiac branch of abdominal vagus nerve stimulation on colonic motility in anesthetized male Yucatan minipigs
+Contributors: 
+Muriel Larauche
+,
+Yushan Wang
+,
+Po-Min Wang
+,
+Genia Dubrovsky
+,
+Yi-Kai Lo
+,
+Ian Hsiang
+,
+James Dunn
+,
+Wentai Liu
+,
+Yvette Tache
+,
+Million Mulugeta
+Description: Acute celiac branch of vagus nerve electrical stimulation; monitor colon manometry in all regions (proximal, transverse and distal) before, during and post stimulation.
+Viewing version: 4.0
+DOI: 10.26275/n3uf-5doz
+July 21, 2023
+251 Files
+1.68 GB
+Latest version: 4.0
+July 21, 2023
+View other versions
+Primary Publication(s):
+Larauche, M., Wang, Y., Wang, P., Dubrovsky, G., Lo, Y., Hsiang, E., Dunn, J., Taché, Y., Liu, W., and Million, M. (2020) The effect of colonic tissue electrical stimulation and celiac branch of the abdominal vagus nerve neuromodulation on colonic motility in anesthetized pigs. Neurogastroenterology &amp; Motility. http://dx.doi.org/10.1111/nmo.13925
+Usage Rights: CC-BY-4.0
+Downloads: 24
+Abstract About Cite Files Gallery References Versions
+
+Study Purpose: Neuromodulation is emerging as an alternative therapy to bowel dysfunctions. However, knowledge of optimal stimulation modalities is lacking. This study aims to map the colonic wall impedance and luminal pressure changes to electrical stimulation of the autonomic nerves in a porcine model.
+
+Data Collection: The celiac branch of the abdominal vagus nerve (CBVN) stimulation was done using hook electrodes alone or concomitantly with afferent or efferent block. In all instances, proximal (pC), transverse (tC), and distal (dC) colon wall bioimpedance and luminal pressure (manometry) changes were monitored before, during, and after stimulation. The regional colonic motility index was quantified by measuring the area under the curve of the phasic component of the luminal pressure trace (pAUC). Colonic luminal pressure map was generated. Contractions frequency power spectral analysis was performed. Contraction propagation was assessed using video animation of motility changes.
+
+Primary Conclusion: Direct pC, tC, and dC stimulations caused visible local circular (segmental-like in proximal and transverse colon) or longitudinal muscle contractions (distal colon) that correlated with respective bio-impedance changes. The optimal contractile response was observed at 10 Hz, 2 ms, 15 mA. It increased luminal pressure changes in pC, tC, and dC (143.0 ± 40.7 %, 135.8 ± 59.7%, and 142.0 ± 62%, respectively). Direct colon wall electrical stimulation causes primarily robust local contractions but also modulates distant colonic regions motility.
+
+Curator's Notes
+
+Experimental Design: Anesthetized male Yucatan pigs were used and assigned to 8 experimental groups: (1) acute CBVN 4 ms pulse-train (PT) protocol without block, (2) acute CBVN 4 ms PT with afferent block, (3) acute CBVN 4 ms PT with efferent block, (4) acute CBVN 4 ms continuous protocol, (5) acute CBVN 4 ms square wave protocol, (6) acute CBVN 300 us PT without block, (7) acute CBVN 300 us PT with afferent block, (8) acute CBVN 300 ms PT with efferent block. Signals were recorded from manometry probes inserted into the proximal, transverse, and distal colonic regions. The probes were used to measure the effect of electrical stimulation using hook electrodes placed on the CBVN in an acutely anesthetized preparation. The effect of stimulation was quantified as motility index assessments before, during, and after stimulation, and the data was used to create a functional map of colonic motor response to CBVN stimulation (pressure map). Contractions frequency power spectral analysis was performed. Contraction propagation was assessed using video animation of motility changes. Files Numbers: Direct proximal colon stimulation: Pig #27,28,29,30,31,32,33,41,42,43,44,45,46,47 Direct transverse colon stimulation: Pig# 18,20,21,22,23,24,25,26 Direct distal colon stimulation: Pig # 48, 50, 51, 52, 53,54
+
+Completeness: This dataset is part of a larger study pertaining to nerve stimulation on colonic motility in Yucatan minipigs.
+
+Subjects & Samples: Young adult male (n=31) Yucatan pigs (RRID:NSRRC_0012), 25 - 35 kilograms, were used for this study.
+
+Primary vs derivative data: The primary folder is organized by subject identification and with results in smrx, and s2rx formatted files stored in subfolders reflecting the type of stimulation performed. Manometry data were collected using Spike 2 and are available as .smr and .s2r files. For each pig that underwent direct colon tissue stimulation, the Baseline lasted 1800 s (30 min); Stimulation lasted 900 s (15 min); Post-stimulation lasted 1800 s (30 min). There are up to 12 channels for each pig. (N.B.: Some channels may not be available (for some pigs as the probes stopped working properly during the experiment.) Channels are labeled as follows (P:proximal, T:transverse, D: distal): P10, P13, P16, P19; T10, T13, T16, T19; D10, D13, D16, D19. The data were extracted using a Spike 2 script code and inserted into an Excel file for further analysis. Bioimpedance data were collected using and are available in .pl2 format. The data were extracted using a Matlab script code and inserted into an Excel file for further analysis. The derivative folder contains a summary of all experiments as an xlsx formatted document, and motility index results in an xlsx format and represented as pressure maps in jpg format and video animations in mp4 format organized by the simulation type for all experimental subjects.
+Metadata
+
+Experimental Design:
+Protocol Links:
+https://doi.org/10.17504/protocols.io.3rmgm46
+Experimental Approach: Electrophysiology, Physiology
+
+Subject Information:
+Anatomical structure: Colon, Vagus nerve
+Species: Pig
+Sex: Male
+Age range: Adult
+Number of samples: n/a
+
+
+
+ About this dataset
+Title: Influence of acute celiac branch of abdominal vagus nerve stimulation on colonic motility in anesthetized male Yucatan minipigs
+First Published: June 15, 2021
+Last Published: July 21, 2023
+Contact Author:
+Muriel Larauche
+mlarauche@mednet.ucla.edu
+Award(s): NIH OT2OD024899
+Funding Program(s): SPARC
+Associated project(s): Comprehensive structural and functional mapping of mammalian colonic nervous system
+Institution(s): University of California Los Angeles (UCLA)
+About this version
+Version 4 Revision 0: Publication date: July 21, 2023 (Last updated: July 21, 2023)
+Dataset DOI: https://doi.org/10.26275/n3uf-5doz 
+
+
