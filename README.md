@@ -21,7 +21,7 @@
 
 # About
 
-This repository belongs to Team #5, **SPARC CHAT**, who took part in the [SPARC](https://commonfund.nih.gov/sparc) [Codeathon](https://sparc.science/news-and-events/events/2023sparc-codeathon/event-details) 2023. The project's concept and planning were collaboratively formulated by the team members during the event, reaching a mutual agreement.
+This repository belongs to Team #5, **SPARC **CHAT\*\*, which took part in the [SPARC](https://commonfund.nih.gov/sparc) [Codeathon](https://sparc.science/news-and-events/events/2023sparc-codeathon/event-details) 2023. The project's concept and planning were collaboratively formulated by the team members during the event, reaching a mutual agreement.
 
 # Problem Statement
 
@@ -41,23 +41,22 @@ In this project, we leverage open-source LLMs and the available data on the SPAR
 
 ## Data
 
-We gathered data from various pages of the **SPARC** portal, 
-including the [SPARC Data & Models](https://sparc.science/data?type=dataset) 
-page and other provided web links. 
-For our model, we randomly picked 15 
+We gathered data from various pages of the **SPARC** portal,
+including the [SPARC Data & Models](https://sparc.science/data?type=dataset)
+page and other provided web links.
+For our model, we randomly picked 15
 datasets that contain valuable information related to related datasets, descriptions, abstracts, protocols, and other relevant details.
 
 ## Data pre-processing
 
-The data from the datasets were stores manually in `.txt` files.
-They include descriptions about the datasets. They are available in the
+The data from the datasets were stored manually in `.txt` files.
+They include descriptions of the datasets. They are available in the
 `texts` folder of the repo.
 
 ## Model
 
-We use publicly available HuggingFace models for vectorizing our data.
-Then we retrieve the information via prompt and answering through an
-LLM model and finally, we use gradio to serve as a GUI.
+We use publicly available [HuggingFace](https://huggingface.co) models for vectorizing our data.
+Then we retrieve the information via prompt and answer through an LLM and finally, we use [Gradio](https://gradio.app/) to serve as a GUI.
 
 # Running the app
 
@@ -67,7 +66,7 @@ LLM model and finally, we use gradio to serve as a GUI.
 - Run the app `python app.py --hf_token <YOUR-HUGGING-FACE_TOKEN>`
 - Open the app on your browser `http://127.0.0.1:7860`
 
-You should see the Gradio interface running locally, 
+You should see the **Gradio** interface running locally,
 and you would be prompted to enter your query, like so:
 
 ![gradio web app](image.png)
